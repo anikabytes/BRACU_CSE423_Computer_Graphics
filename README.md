@@ -6,3 +6,7 @@
   Lab Faculty(s) : MAA, SKW
   </body>
 </html>
+
+## 423 Project 
+
+[Snake Game](https://github.com/anikabytes/BRACU_CSE423_Snake_Game.git)
